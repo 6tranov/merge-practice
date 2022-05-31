@@ -1,2 +1,3 @@
 # merge-practice
 aiueo
+KAKIKUKEKO
